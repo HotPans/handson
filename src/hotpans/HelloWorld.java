@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.println("makopi23");
         System.out.println("makopi23 GitHub Test");
         System.out.println("kami256  GitHub Test");
+        System.out.println("nana  GitHub Test 7777777");
     }
 
 }
